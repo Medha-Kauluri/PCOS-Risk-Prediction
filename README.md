@@ -92,11 +92,11 @@ https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos
 
 ### Streamlit Interface
 
-![Application Preview](assets/app_preview.png)
+![Application Preview](assets/app_preview.jpeg)
 
 ### Feature Importance
 
-![Feature Importance](assets/feature_importance.png)
+![Feature Importance](assets/feature_importance.jpeg)
 
 ## Installation
 
